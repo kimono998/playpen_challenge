@@ -5,11 +5,13 @@
 <p>Please, note that all the baseline models listed were run with thinking mode disabled, as such a feature is not supported by the clemcore infrastructure yet.</p>
 <h2>Leaderboard</h2>
 
-| Model | Clemscore | Statscore |
-|-------|-----------|-----------|
-| Qwen3.5-27B | 66.91 | 65.8 |
-| Qwen3.5-9B | 40.76 | 54.18 |
-| Qwen3.5-4B | 39.08 | 50.63 |
-| Qwen3.5-2B | 13.05 | 44.15 |
-| Llama-3.1-8B | 25.59 | 45.88 |
+Team Name | Version ID | Base Model Name | Recipe Description | HF Link | Clemscore | Statscore | Delta Clemscore | Delta Statscore |
+|---------|------------|-----------------|--------------------|---------|-----------|-----------|-----------------|-----------------|
+|Baseline| /  |Qwen/Qwen3.5-27B |  / | [Qwen/Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B) | 65.72 | 65.99 |
+|Baseline| /  |Qwen/Qwen3.5-9B |  / | [Qwen/Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B) | 41.92 | 54.16 |
+|Baseline| / |Qwen/Qwen3.5-4B | / | [Qwen/Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B) | 39.7 | 50.63 | 
+|Baseline| / |Qwen/Qwen3.5-2B |  / | [Qwen/Qwen3.5-2B](https://huggingface.co/Qwen/Qwen3.5-2B) | 13.05 | 44.02 |
+|Baseline| / |meta-llama/Llama-3.1-8B | / | [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) | 25.67 | 45.81 |
+
+
 
