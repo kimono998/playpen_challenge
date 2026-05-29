@@ -1,7 +1,7 @@
 <h1>Language Models Playschool Challenge Leaderboard</h1>
 <h3>Welcome to the official leaderboard of the 2026 LM Playschool Challenge!</h3>
 
-In the table below, you will find results - both clemscores and statscores - for a variety of baseline models ran on playpen's eval set (`$ playpen eval <model_name> --suite all`), to which you can compare the results obtained by your own implementations.
+In the table below, you will find results - both clemscores and statscores - for a variety of baseline models ran on playpen's eval set (` playpen eval <model_name> --suite all`), to which you can compare the results obtained by your own implementations.
 
 Additionally, the table will be updated with intermediate results submitted by participants in the challenge, so that everyone can keep track of how their competitors are doing.
 
