@@ -16,7 +16,7 @@ Team Name | Version ID | Base Model Name | Recipe Description | HF Link | Clemsc
 
 <h3>List of teams participating in the challenge</h3>
 
-Here you can find a list of all the teams currently enrolled in the challenge, along with their respective affiliation
+Here you can find a list of all the teams currently enrolled in the challenge, along with their respective affiliation.
 
 
 | Name of team<br><br>         | Affiliation of team<br><br>                                     |
