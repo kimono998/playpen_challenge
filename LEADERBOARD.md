@@ -14,5 +14,30 @@ Team Name | Version ID | Base Model Name | Recipe Description | HF Link | Clemsc
 |Baseline| / |Qwen/Qwen3.5-2B |  thinking mode deactivated  | [Qwen/Qwen3.5-2B](https://huggingface.co/Qwen/Qwen3.5-2B) | 13.05 | 44.02 | 0 | 0 |
 |Baseline| / |meta-llama/Llama-3.1-8B | thinking mode deactivated  | [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) | 25.67 | 45.81 | 0 | 0 |
 
+<h3>List of teams participating in the challenge</h3>
+
+Here you can find a list of all the teams currently enrolled in the challenge, along with their respective affiliation
+
+
+| Name of team<br><br>         | Affiliation of team<br><br>                                     |
+| ---------------------------- | --------------------------------------------------------------- |
+| Collane Mobili               | University of Trento                                            |
+| TestTeam                     | UCL                                                             |
+| Incrementaliser              | Heriot-Watt University                                          |
+| SOLO                         | Shanghai Artifiial Intelligence Laboratory, Tsinghua University |
+| playornotplay                | Utrecht University                                              |
+| bosphorous                   | bKash Limited, Brac Universsity                                 |
+| Knock Yourself out           | IIT Roorkee                                                     |
+| Bentel rockers               | IIT Bhubaneswar                                                 |
+| USTC_NO.1                    | independent researcher                                          |
+| BSU-SLIM                     | Boise State University                                          |
+| The Architects               | University of Michigan                                          |
+| Mediocriphobia               | University of Bonn                                              |
+| Maverick                     | University of Stirling                                          |
+| Dialogue Architects          | Universität Potsdam                                             |
+| NarTeam                      | Narxoz University                                               |
+| LLP: Large Language Problems | Potsdam University, Eurac Research                              |
+| Playgym                      | Radboud University                                              |
+
 
 
