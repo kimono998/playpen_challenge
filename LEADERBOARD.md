@@ -8,6 +8,7 @@ Additionally, the table will be updated with intermediate results submitted by p
 
 Team Name | Version ID | Base Model Name | Recipe Description | HF Link | Clemscore | Statscore | Delta Clemscore w.r.t. Base Model | Delta Statscore w.r.t. Base Model |
 |---------|------------|-----------------|--------------------|---------|-----------|-----------|-----------------------------------|-----------------------------------|
+| bosphorous | iter2 | Qwen/Qwen3.5-2B | LoRA SFT, success-filtered playpen-data |  https://huggingface.co/Shamima/lm-playschool-qwen3.5-2b-sft-iter2 | 46.66 | 40.39 | +33.61 | -3.63 |
 |Baseline| /  |Qwen/Qwen3.5-27B |  thinking mode deactivated | [Qwen/Qwen3.5-27B](https://huggingface.co/Qwen/Qwen3.5-27B) | 65.72 | 65.99 | 0 | 0 |
 |Baseline| /  |Qwen/Qwen3.5-9B |  thinking mode deactivated  | [Qwen/Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B) | 41.92 | 54.16 | 0 | 0 |
 |Baseline| / |Qwen/Qwen3.5-4B | thinking mode deactivated  | [Qwen/Qwen3.5-4B](https://huggingface.co/Qwen/Qwen3.5-4B) | 39.7 | 50.63 | 0 | 0 |
